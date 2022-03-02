@@ -91,3 +91,17 @@ width: 30%;
     width: 90%;
     padding-left: 15px;
 }
+.sign-up{
+    margin: 20px 60px;
+    background-color:azure;
+}
+
+.footer{
+    background-color:black;
+    margin: 20px 60px;
+    padding: 30px;
+}
+.footer-content{
+    text-align: center;
+    color: white;
+}
